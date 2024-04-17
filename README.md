@@ -1,6 +1,7 @@
-![navbar (1)](https://github.com/OmerUcuncu71/OmerUcuncu71/assets/167333375/0fedc016-bbcb-4cb9-9493-eff4fd9aa8d6)
+![navbar (1)](https://github.com/OmerrUcuncuu/OmerrUcuncuu/assets/167344297/5a5370d9-de41-4f32-837d-bd18e5e85229)
 <div align="center">
- <a href="https://github.com/CagatayAkkas">
+
+ <a href="https://github.com/OmerrUcuncuu">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Ömer+Üçüncü+;Software+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
  </a>
 </div>
