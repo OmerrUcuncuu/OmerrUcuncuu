@@ -18,7 +18,7 @@
 
 
 <p align="left">
-<a href="https://instagram.com/omerr.araf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omerr.ice" height="30" width="40" /></a> &nbsp <span>/ &nbsp omerrucuncu61@gmail.com</span>
+<a href="https://instagram.com/omerr.anaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omerr.ice" height="30" width="40" /></a> &nbsp <span>/ &nbsp omerrucuncu61@gmail.com</span>
 </p>
 
 # 💻 Languages and Tools:
